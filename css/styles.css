@@ -1,0 +1,54 @@
+/**{
+  outline: 1px dotted red;
+}*/
+
+*{
+  background-color: tan;
+  color: white;
+}
+
+.header-image-home {
+   position: relative;
+   width: 100%;
+}
+
+h1 {
+   text-align: center;
+   font-family: fantasy;
+   color: brown;
+   font-size: 50px;
+}
+
+a {
+  color: brown;
+}
+
+.home-anchor{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.reviews{
+  font-style: italic;
+  font-weight: lighter;
+  vertical-align: middle;
+}
+
+img{
+  width: 50%;
+  height: 300px;
+  padding:2px;
+  background-color: black;
+  display: block;
+  margin: auto;
+}
+
+.banner {
+  height: 300px;
+  background-image: url("http://static.wixstatic.com/media/ac39be76b000489e85caeb643c2c160b.jpg");
+  background-size: 1200px;
+  background-position: center center;}
+
+.font {
+  font-size: 25;
+  color: white;}

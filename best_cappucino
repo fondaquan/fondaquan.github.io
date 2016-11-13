@@ -1,0 +1,64 @@
+<html>
+ <head>
+   <title>Coffee Fix</title>
+   <link rel="stylesheet" href="css/styles.css">
+ </head>
+
+ <body>
+   <header>
+     <h1>Coffee Fix</h1>
+     <p>It's all about the foam!</p>
+     <nav>
+       <ul>
+         <li>
+           <a href="index.html">Home</a>
+         </li>
+         <br>
+         <li>
+         <a href="http://caffeumbria.com/pages/coffees">1.Caffe Umbria</a>
+         </li>
+           <p>320 Occidental Ave S (btwn Jackson & Main St)
+Seattle, WA 98104<br>Phone: (206) 624-5847
+           </p>
+
+           <p>Marty S. - "The most authentic cappuccino in the city!""
+
+         <img src="http://explorethepearl.com/wp-content/uploads/2013/12/09.09.13-Caffe-Umbria-17-Edit-Web-1388507410.jpg">
+
+
+             </br>
+           <li><a href="http://www.caffevita.com/coffee">2.Caffe Vita</a></li>
+           <p>1005 E Pike St (at 10th Ave)
+Seattle, WA 98124
+             <br>
+               Phone: (206) 709-4440</p>
+               <p>
+               <br>Steve S. - "It's all about the foam""
+
+             </br>
+
+           <img src="https://ineedcoffee.com/wp-content/uploads/2007/06/vita-latte400.jpg">
+
+         <li>
+           <a href="http://www.caffefiore.com/organic/">3.Caffe Fiore</a>
+           <p>224 W Galer St
+               Seattle, WA 98119
+               United States
+           <br>
+             Phone: (206)282-1441
+           </p>
+           <br> Jalen T. - "I really enjoy their Capp!"
+         </br>
+         </li>
+         <img src="http://www.policaffetorrefazione.com/public/Immagini/Un%20fiore%20sul%20cappuccino%20al%20corso%20di%20Latte%20Arti%20di%20Caff%C3%A8%20Poli.jpg">
+
+       </ul>
+     </nav>
+   </header>
+     <main>
+
+     </main>
+     <footer></footer>
+   </header>
+ </body>
+ </html>

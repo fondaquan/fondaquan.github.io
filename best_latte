@@ -1,0 +1,35 @@
+<html>
+ <head>
+   <title>the best latte</title>
+   <link rel="stylesheet" href="css/styles/styles.css"
+ </head>
+ <body>
+   <header>
+     <h1>The Best Latte</h1>
+     <nav>
+       <ul class="list-container">
+         <li>
+           <a class="anchor" href="">Home</a>
+         </li>
+         <li>
+           <a href="http://www.zeitgeistcoffee.com/default.asp">1. Zeitgeist Coffee</a>
+         </li>
+         <li>
+         <img src="http://www.zeitgeistcoffee.com/images/logo.gif" alt="" />
+       </li>
+         <li>
+           <a href="http://espressovivace.com">2. Espresso Vivace</a>
+         </li>
+         <li>
+         <img class="vivacilogo" src="http://espressovivace.com/wp-content/themes/vivace/images/vivace-logo.png" alt="" />
+       </li>
+         <li>
+           <a href="http://cafefonte.com">3. Caffe Fonte</a>
+         </li>
+         <li>
+     <img src="http://cafefonte.com/gallery-photos/cafe/thumb/cafe-9.jpg
+     " alt="image of coffee" />
+   </li>
+   </header>
+ </body>
+</html>
